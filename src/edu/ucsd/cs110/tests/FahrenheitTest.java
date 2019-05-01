@@ -4,9 +4,6 @@ import edu.ucsd.cs110.temperature.Fahrenheit;
 import edu.ucsd.cs110.temperature.Temperature;
 import junit.framework.TestCase;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
-
 public class FahrenheitTest extends TestCase {
     private float delta = 0.001f;
 
