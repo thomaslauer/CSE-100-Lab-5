@@ -249,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in Lab5">
+  <component name="RunManager" selected="JUnit.CelsiusTest">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
       <module name="Lab5" />
@@ -272,6 +272,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CelsiusTest.testCelsiusToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
+      <option name="METHOD_NAME" value="testCelsiusToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="edu.ucsd.cs110.tests in Lab5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab5" />
       <extension name="coverage">
@@ -290,11 +306,13 @@
       <item itemvalue="Application.TemperatureConverter" />
       <item itemvalue="JUnit.CelsiusTest" />
       <item itemvalue="JUnit.edu.ucsd.cs110.tests in Lab5" />
+      <item itemvalue="JUnit.CelsiusTest.testCelsiusToString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.edu.ucsd.cs110.tests in Lab5" />
         <item itemvalue="JUnit.CelsiusTest" />
+        <item itemvalue="JUnit.CelsiusTest.testCelsiusToString" />
+        <item itemvalue="JUnit.edu.ucsd.cs110.tests in Lab5" />
       </list>
     </recent_temporary>
   </component>
